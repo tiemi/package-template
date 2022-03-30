@@ -1,7 +1,7 @@
 # processador_imagem
 
 Description. 
-The package image_processing is used to:
+The package processador_imagem is used to:
 	Processing:
 		- Histogram matching
 		- Structural similarity
@@ -13,7 +13,7 @@ The package image_processing is used to:
 		-Plot result
 		-Plot histogram
 
-O pacote image_processing é usado para:
+O pacote package processador_imagem é usado para:
 	Processing:
 		- Correspondência de histograma
 		- Semelhança estrutural
